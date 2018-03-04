@@ -1,0 +1,1 @@
+Time,ReportType,AnaplanCode,transfer_to_city,transfer_to_region,transfer_to_subBand,is_transfer,is_surrender,token_ID,user_name,timestamp

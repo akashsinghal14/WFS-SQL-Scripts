@@ -1,0 +1,1105 @@
+Actual	Final
+Time	Vertical Subset Except Default	Current Headcount	AOP Vacant Positions	TA Open	Attrition %	Attrition Backfills	Sub Grp Vertical
+Jan 18	Pre-sales	10	2	6	0.0379	0.03158333333333333	VS Shridhar
+Jan 18	Network area	12	4	0	0.0379	0.0379	VS Shridhar
+Jan 18	Product and network Ecosystem	22	16	4	0.0379	0.06948333333333334	VS Shridhar
+Jan 18	Business Development	9	0	2	0.0379	0.028425	VS Shridhar
+Jan 18	Administration	1	0	0	0.0379	0.0031583333333333333	VS Shridhar
+Jan 18	India IOT Solutions-Head	2	0	0	0.0379	0.006316666666666667	
+Jan 18	Project Management	0	0	0	0.0379	0	
+Jan 18	Business Development	12	1	3	0.0379	0.0379	Timothy Sherwood
+Jan 18	Solution Management	10	1	0	0.0379	0.03158333333333333	Timothy Sherwood
+Jan 18	Business Development Head	1	0	0	0.0379	0.0031583333333333333	
+Jan 18	UCAAS Microsoft Solutions	5	1	0	0.0379	0.015791666666666666	Peter Quinlan
+Jan 18	Global Wholesale &  Enterprise Voice Solutions	8	0	0	0.0379	0.025266666666666666	Peter Quinlan
+Jan 18	OSS/BSS Manager	4	0	0	0.0379	0.012633333333333333	Peter Quinlan
+Jan 18	Cisco Powered Solutions	7	0	1	0.0379	0.022108333333333334	Peter Quinlan
+Jan 18	Product Operations	8	1	0	0.0379	0.025266666666666666	Peter Quinlan
+Jan 18	InstaCC	4	1	0	0.0379	0.012633333333333333	Peter Quinlan
+Jan 18	Administration	1	0	0	0.0379	0.0031583333333333333	Peter Quinlan
+Jan 18	Business Collaboration Solutions, Product Management-head	1	0	0	0.0379	0.0031583333333333333	
+Jan 18	API Platform & Solutions	1	1	1	0.0379	0.0031583333333333333	Peter Quinlan
+Jan 18	Global Voice Network and  Solutions Engineering	52	1	0	0.0379	0.16423333333333334	Philippe Gagnon
+Jan 18	Mobility Solutions Technology & Architecture	25	0	3	0.0379	0.07895833333333334	Philippe Gagnon
+Jan 18	Contact Center Services Engineering	20	0	0	0.0379	0.06316666666666666	Philippe Gagnon
+Jan 18	Mobility Services Engineering	40	4	2	0.0379	0.12633333333333333	Philippe Gagnon
+Jan 18	UCC Network and Services Engineering	46	0	0	0.0379	0.14528333333333332	Philippe Gagnon
+Jan 18	Engineering- head	1	0	0	0.0379	0.0031583333333333333	
+Jan 18	Administration	1	0	0	0.0379	0.0031583333333333333	Philippe Gagnon
+Jan 18	Mobility Solutions Technology & Architecture	2	1	1	0.0379	0.006316666666666667	
+Jan 18	UCC Network and Services Engineering	1	0	0	0.0379	0.0031583333333333333	
+Jan 18	Sales Enablement-Head	1	0	0	0.0379	0.0031583333333333333	
+Jan 18	Knowledge Management	1	0	0	0.0379	0.0031583333333333333	Celine Gregoire
+Jan 18	Product Strategy & Planning	3	0	0	0.0379	0.009475	Celine Gregoire
+Jan 18	Marketing Strategy	1	0	0	0.0379	0.0031583333333333333	Celine Gregoire
+Jan 18	GMS - Mobility Marketing Strategy & Asset Interlock Product	1	0	0	0.0379	0.0031583333333333333	Celine Gregoire
+Jan 18	GMS - Mobility Marketing Strategy & Asset Interlock Product	0	0	0	0.0379	0	
+Jan 18	CTO Head	1	0	0	0.0379	0.0031583333333333333	
+Jan 18	CTO	5	1	0	0.0379	0.015791666666666666	Karl Perkins
+Jan 18	Mobility Solutions Technology & Architecture	0	0	0	0.0379	0	
+Jan 18	Bus Collaboration, Mob & IoT Sol	0	0	0	0.0379	0	
+Jan 18	Global Voice Network and  Solutions Engineering	0	0	0	0.0379	0	
+Jan 18	Contact Center Services Engineering	0	0	0	0.0379	0	
+Jan 18	Mobility Services Engineering	0	0	0	0.0379	0	
+Jan 18	UCC Network and Services Engineering	0	0	0	0.0379	0	
+Jan 18	Administration	0	0	0	0.0379	0	
+Jan 18	BCMIoT Sols Head	5	3	0	0.0379	0.015791666666666666	
+Jan 18	GCP	0	0	0	0.0379	0	
+Jan 18	Collaboration , Mobility & IoT Solutions office	0	0	0	0.0379	0	
+Jan 18	Mobility Solutions Technology & Architecture	0	0	0	0.0379	0	
+Jan 18	Business Operations	3	0	0	0.0379	0.009475	
+Jan 18	Portfolio management	13	0	0	0.0379	0.041058333333333336	Michael Joseph Higgins
+Jan 18	Mnaas Product	8	5	1	0.0379	0.025266666666666666	Michael Joseph Higgins
+Jan 18	Exchange Enablement Management	5	0	0	0.0379	0.015791666666666666	Michael Joseph Higgins
+Jan 18	Mobility & IoT  Solutions Product  Management-head	2	0	0	0.0379	0.006316666666666667	
+Jan 18	Process Excellence Q2C	1	0	0	0.1623	0.013524999999999999	Pankaj Sehgal
+Jan 18	Organizational Effectiveness	5	1	0	0.1623	0.06762499999999999	Pankaj Sehgal
+Jan 18	Q2C	4	4	2	0.1623	0.054099999999999995	Pankaj Sehgal
+Jan 18	BE Head Office	0	1	0	0.1623	0	Pankaj Sehgal
+Jan 18	Process Excellence	7	1	0	0.1623	0.09467499999999998	
+Jan 18	Projects	14	0	1	0.1623	0.18934999999999996	Pankaj Sehgal
+Jan 18	Head	1	0	0	0.1623	0.013524999999999999	Pankaj Sehgal
+Jan 18	Service Realisation	11	0	0	0.1623	0.148775	Pankaj Sehgal
+Jan 18	Business IT Services	48	0	0	0.1623	0.6492	Rupinder Goyal
+Jan 18	IT Architecture, Inventory, Assurance	41	1	3	0.1623	0.5545249999999999	Rupinder Goyal
+Jan 18	Group CIO	4	0	0	0.1623	0.054099999999999995	Rupinder Goyal
+Jan 18	IT Delivery	78	1	3	0.1623	1.0549499999999998	Rupinder Goyal
+Jan 18	Corporate Security	21	1	0	0.1623	0.28402499999999997	Rupinder Goyal
+Jan 18	IT Strategy & planning	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	Information Analytics & Business Partnership	2	0	0	0.1623	0.027049999999999998	Rupinder Goyal
+Jan 18	IT Governance & Digital	46	7	2	0.1623	0.62215	Rupinder Goyal
+Jan 18	Global IT Business Partnership	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	Global IT Service Operations & Support	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	Global  IT Delivery	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	IT Architecture & Design	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	GTCRMCIS	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	IT Governance	3	0	0	0.1623	0.040575	Rupinder Goyal
+Jan 18	Global IT Governance541	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	TCL-IT	0	0	0	0.1623	0	Rupinder Goyal
+Jan 18	Corporate Security	11	0	0	0.1623	0.148775	
+Jan 18	E Commerce & Analytics	64	2	4	0.1623	0.8655999999999999	
+Jan 18	Global IT Service Operations & Support	0	0	0	0.1623	0	
+Jan 18	GSPI	60	1	0	0.1623	0.8114999999999999	Tim Baker
+Jan 18	UCC PMO	12	0	0	0.1623	0.1623	Tim Baker
+Jan 18	Head	1	0	0	0.1623	0.013524999999999999	Tim Baker
+Jan 18	Program Management	4	0	0	0.1623	0.054099999999999995	Tim Baker
+Jan 18	CTO Office	13	0	0	0.1623	0.175825	John Hayduk  CO_OPR
+Jan 18	Head - Global Partnerships Group	0	0	0	0.1623	0	Pankaj Sehgal
+Jan 18	Global Partnership Engagements	0	0	0	0.1623	0	Pankaj Sehgal
+Jan 18	Automation	0	0	0	0.1623	0	Pankaj Sehgal
+Jan 18	Compensation	0	0	0	0.1623	0	Pankaj Sehgal
+Jan 18	Partner Program	0	0	0	0.1623	0	Pankaj Sehgal
+Jan 18	Portal, Training, Certifications	0	0	0	0.1623	0	Pankaj Sehgal
+Jan 18	Business Transformation	0	0	0	0.1623	0	
+Jan 18	FIM - India	41	0	0	0.049400000000000006	0.16878333333333334	Sadanandan CT_CS
+Jan 18	Operations & Maintenance	2	0	0	0.049400000000000006	0.008233333333333334	Sadanandan CT_CS
+Jan 18	Facilities & Infrastructure Management - India	0	0	0	0.049400000000000006	0	
+Jan 18	P&E Security	17	1	1	0.049400000000000006	0.06998333333333334	Sadanandan CT_CS
+Jan 18	Security7284	0	0	0	0.049400000000000006	0	
+Jan 18	South	22	0	0	0.049400000000000006	0.09056666666666668	Sadanandan CT_CS
+Jan 18	East	12	0	0	0.049400000000000006	0.049400000000000006	Sadanandan CT_CS
+Jan 18	Mumbai	52	2	0	0.049400000000000006	0.21406666666666668	Sadanandan CT_CS
+Jan 18	Travel	10	0	0	0.049400000000000006	0.04116666666666667	Sadanandan CT_CS
+Jan 18	North	38	0	0	0.049400000000000006	0.15643333333333334	Sadanandan CT_CS
+Jan 18	ROW	23	0	0	0.049400000000000006	0.09468333333333334	Sadanandan CT_CS
+Jan 18	TCTS	7	1	1	0.049400000000000006	0.02881666666666667	Sadanandan CT_CS
+Jan 18	Head - Corporate Services	0	1	0	0.049400000000000006	0	
+Jan 18	Travel & Hospitality	1	0	0	0.049400000000000006	0.004116666666666667	
+Jan 18	Facility Management	0	0	0	0.049400000000000006	0	
+Jan 18	Employee and office support	0	0	0	0.049400000000000006	0	
+Jan 18	Head - Corporate Services	2	0	0	0.049400000000000006	0.008233333333333334	Sadanandan CT_CSR
+Jan 18	Corporate Social Responsibility	6	1	0	0.049400000000000006	0.024700000000000003	Sadanandan CT_CSR
+Jan 18	Travel & Hospitality	0	0	0	0.049400000000000006	0	
+Jan 18	Corporate Services Office	0	0	0	0.049400000000000006	0	
+Jan 18	Repairs & Maintenance	0	0	0	0.049400000000000006	0	
+Jan 18	Region	0	0	0	0.049400000000000006	0	
+Jan 18	Transport Management	0	0	0	0.049400000000000006	0	
+Jan 18	Facility Management	0	0	0	0.049400000000000006	0	
+Jan 18	Strategy 2.0	2	1	0	1.1163	0.18605	
+Jan 18	Investments/ Mergers & Acquisitions	3	0	0	1.1163	0.279075	
+Jan 18	Head - Corporate Strategy's Office	2	0	0	1.1163	0.18605	
+Jan 18	Strategic Corporate Venturing & Partnerships	8	1	0	1.1163	0.7442	
+Jan 18	Business Strategy	10	2	0	1.1163	0.93025	
+Jan 18	Enterprise	0	1	0	1.1163	0	
+Jan 18	Corporate	0	0	0	1.1163	0	
+Jan 18	Service Provider	0	0	0	1.1163	0	
+Jan 18	Innovation	0	0	0	1.1163	0	
+Jan 18	Innovation Centre	0	0	0	1.1163	0	
+Jan 18	Investments/ M & A	0	0	0	1.1163	0	
+Jan 18	Head-Corporate Strategy	0	0	0	1.1163	0	
+Jan 18	Chief Strategy Head's Office	0	0	0	1.1163	0	
+Jan 18	Special Projects	0	0	0	1.1163	0	
+Jan 18	Operation Support-Facility Infrastructure Management - International	11	0	0	0.16949999999999998	0.15537499999999999	Pankaj Sehgal - CSO
+Jan 18	Region - MENA & APAC	36	0	1	0.16949999999999998	0.5085	Pankaj Sehgal - CSO
+Jan 18	Region - Americas	50	3	0	0.16949999999999998	0.7062499999999999	Pankaj Sehgal - CSO
+Jan 18	Region - EU, Russia & Africa	53	1	3	0.16949999999999998	0.7486249999999999	Pankaj Sehgal - CSO
+Jan 18	Operation Support-Marine Cable & Network Equipment Maintenance	4	0	0	0.16949999999999998	0.056499999999999995	Pankaj Sehgal - CSO
+Jan 18	Operation Support-Real Estate, Security operations & Office Management	20	0	0	0.16949999999999998	0.2825	Pankaj Sehgal - CSO
+Jan 18	Administrative Support	4	0	0	0.16949999999999998	0.056499999999999995	Pankaj Sehgal - CSO
+Jan 18	Head - International Operations	1	0	0	0.16949999999999998	0.014124999999999999	Pankaj Sehgal - CSO
+Jan 18	Operation Support-Facility Infrastructure Management - International	0	0	0	0.16949999999999998	0	
+Jan 18	Operation Support-Marine Cable & Network Equipment Maintenance	0	0	0	0.16949999999999998	0	
+Jan 18	Operation Support-Real Estate, Security operations & Office Management	0	0	0	0.16949999999999998	0	
+Jan 18	ITAC	33	0	0	0.16949999999999998	0.46612499999999996	Pankaj Sehgal - CSO
+Jan 18	RTSM	27	0	0	0.16949999999999998	0.3813749999999999	Pankaj Sehgal - CSO
+Jan 18	Voice NOC FMGT/NLD/ILD	29	0	2	0.16949999999999998	0.40962499999999996	Pankaj Sehgal - CSO
+Jan 18	Voice - SQM	6	1	0	0.16949999999999998	0.08474999999999999	Pankaj Sehgal - CSO
+Jan 18	Transmission NOC	12	1	0	0.16949999999999998	0.16949999999999998	Pankaj Sehgal - CSO
+Jan 18	GTAC	18	0	0	0.16949999999999998	0.25425	Pankaj Sehgal - CSO
+Jan 18	Unified Planned Maintenance Group	6	1	0	0.16949999999999998	0.08474999999999999	Pankaj Sehgal - CSO
+Jan 18	Wall NMC	9	1	0	0.16949999999999998	0.127125	Pankaj Sehgal - CSO
+Jan 18	Head	11	0	0	0.16949999999999998	0.15537499999999999	Pankaj Sehgal - CSO
+Jan 18	NIMS PILOT	1	0	0	0.16949999999999998	0.014124999999999999	Pankaj Sehgal - CSO
+Jan 18	Unified Planned Maintenance Group	0	0	0	0.16949999999999998	0	
+Jan 18	GDMS	53	0	1	0.16949999999999998	0.7486249999999999	Mike Winder
+Jan 18	GVS & Mobility	37	5	1	0.16949999999999998	0.5226249999999999	Mike Winder
+Jan 18	UCC	7	0	2	0.16949999999999998	0.09887499999999999	Mike Winder
+Jan 18	Process & Automation	4	0	0	0.16949999999999998	0.056499999999999995	Mike Winder
+Jan 18	Head	1	1	0	0.16949999999999998	0.014124999999999999	Mike Winder
+Jan 18	Priority - SOC	58	0	0	0.16949999999999998	0.8192499999999999	Pankaj Sehgal - CSO
+Jan 18	Enterprise Escalation Desk	11	0	0	0.16949999999999998	0.15537499999999999	Pankaj Sehgal - CSO
+Jan 18	TSC - Wholesale	80	0	0	0.16949999999999998	1.13	Pankaj Sehgal - CSO
+Jan 18	TSC - Enterprise	20	0	0	0.16949999999999998	0.2825	Pankaj Sehgal - CSO
+Jan 18	Quality	10	0	0	0.16949999999999998	0.14125	Pankaj Sehgal - CSO
+Jan 18	Training	4	0	0	0.16949999999999998	0.056499999999999995	Pankaj Sehgal - CSO
+Jan 18	Head	1	0	0	0.16949999999999998	0.014124999999999999	Pankaj Sehgal - CSO
+Jan 18	Wireline - South Region	3	0	0	0.16949999999999998	0.042374999999999996	John Hayduk - CSO
+Jan 18	Wireline - Satellite Operations	2	0	0	0.16949999999999998	0.028249999999999997	Pankaj Sehgal - CSO
+Jan 18	Wireline - Corporate	2	0	0	0.16949999999999998	0.028249999999999997	Pankaj Sehgal - CSO
+Jan 18	Wireline - Row Region	2	0	0	0.16949999999999998	0.028249999999999997	Pankaj Sehgal - CSO
+Jan 18	Wireline - North Region	4	0	0	0.16949999999999998	0.056499999999999995	Pankaj Sehgal - CSO
+Jan 18	Wireline - West Region	0	0	0	0.16949999999999998	0	Pankaj Sehgal - CSO
+Jan 18	Carrier	18	0	0	0.16949999999999998	0.25425	Mike Winder
+Jan 18	International PMO	34	1	0	0.16949999999999998	0.48024999999999995	Mike Winder
+Jan 18	Enterprise	98	2	2	0.16949999999999998	1.3842499999999998	Mike Winder
+Jan 18	UCC & SME	26	1	0	0.16949999999999998	0.36724999999999997	Mike Winder
+Jan 18	Voice	4	0	0	0.16949999999999998	0.056499999999999995	Mike Winder
+Jan 18	India PMO	11	3	0	0.16949999999999998	0.15537499999999999	Mike Winder
+Jan 18	Head	1	0	0	0.16949999999999998	0.014124999999999999	Mike Winder
+Jan 18	SOC - India	222	2	7	0.16949999999999998	3.13575	Pankaj Sehgal - CSO
+Jan 18	SOC International	58	1	2	0.16949999999999998	0.8192499999999999	Pankaj Sehgal - CSO
+Jan 18	ASOC Off net	41	0	2	0.16949999999999998	0.5791249999999999	Pankaj Sehgal - CSO
+Jan 18	Customer Solution Analyst	13	0	0	0.16949999999999998	0.18362499999999998	Pankaj Sehgal - CSO
+Jan 18	ASOC On net RF	14	0	1	0.16949999999999998	0.19774999999999998	Pankaj Sehgal - CSO
+Jan 18	Head	2	0	0	0.16949999999999998	0.028249999999999997	Pankaj Sehgal - CSO
+Jan 18	NOC	87	3	7	0.16949999999999998	1.228875	Pankaj Sehgal - CSO
+Jan 18	Partner Services	29	0	3	0.16949999999999998	0.40962499999999996	Pankaj Sehgal - CSO
+Jan 18	Head	1	0	0	0.16949999999999998	0.014124999999999999	Pankaj Sehgal - CSO
+Jan 18	EMEA	27	0	0	0.16949999999999998	0.3813749999999999	Mike Winder
+Jan 18	APAC	5	0	0	0.16949999999999998	0.070625	Mike Winder
+Jan 18	India	83	5	0	0.16949999999999998	1.1723749999999997	Mike Winder
+Jan 18	GSP Americas	3	1	0	0.16949999999999998	0.042374999999999996	Mike Winder
+Jan 18	Americas	11	2	0	0.16949999999999998	0.15537499999999999	Mike Winder
+Jan 18	GSP MEA	2	0	0	0.16949999999999998	0.028249999999999997	Mike Winder
+Jan 18	GSP India	14	0	0	0.16949999999999998	0.19774999999999998	Mike Winder
+Jan 18	GSP Europe	3	0	0	0.16949999999999998	0.042374999999999996	Mike Winder
+Jan 18	GSP APAC	4	1	0	0.16949999999999998	0.056499999999999995	Mike Winder
+Jan 18	OSP Project Implementation	36	1	0	0.16949999999999998	0.5085	Mike Winder
+Jan 18	Wireless Project Implementation	32	1	0	0.16949999999999998	0.45199999999999996	Mike Winder
+Jan 18	Head Wireless & OSP Proj Implmn	1	0	0	0.16949999999999998	0.014124999999999999	Mike Winder
+Jan 18	Onnet Service Delivery	41	4	0	0.16949999999999998	0.5791249999999999	Mike Winder
+Jan 18	SDNOC-IP/MPLS	55	0	2	0.16949999999999998	0.776875	Mike Winder
+Jan 18	VAS Provisioning	31	4	0	0.16949999999999998	0.4378749999999999	Mike Winder
+Jan 18	SDNOC - Tx	46	1	0	0.16949999999999998	0.6497499999999998	Mike Winder
+Jan 18	Voice - NOC	3	0	0	0.16949999999999998	0.042374999999999996	Mike Winder
+Jan 18	Automation	0	0	0	0.16949999999999998	0	Mike Winder
+Jan 18	Head	0	0	0	0.16949999999999998	0	
+Jan 18	Mobility	0	0	0	0.16949999999999998	0	
+Jan 18	BCS	0	0	0	0.16949999999999998	0	
+Jan 18	Technical Design Authority	17	1	1	0.16949999999999998	0.24012499999999998	Mike Winder
+Jan 18	Head	3	1	0	0.16949999999999998	0.042374999999999996	Mike Winder
+Jan 18	Technical Design & impl	15	1	0	0.16949999999999998	0.21187499999999995	Mike Winder
+Jan 18	Assistant	1	0	0	0.16949999999999998	0.014124999999999999	John Hayduk - CSO
+Jan 18	Secretary	2	0	0	0.16949999999999998	0.028249999999999997	John Hayduk - CSO
+Jan 18	Head-CSO	2	2	0	0.16949999999999998	0.028249999999999997	John Hayduk - CSO
+Jan 18	Executive Assistant4556	0	0	0	0.16949999999999998	0	
+Jan 18	Cable Operations	3	0	0	0.16949999999999998	0.042374999999999996	Mike Winder
+Jan 18	Int Txn, Voice n Mobile	0	0	0	0.16949999999999998	0	Mike Winder
+Jan 18	Technical Design Authority	0	0	0	0.16949999999999998	0	Mike Winder
+Jan 18	Technical Design & impl	0	1	0	0.16949999999999998	0	Mike Winder
+Jan 18	SDNOC-IP/MPLS	0	0	0	0.16949999999999998	0	Mike Winder
+Jan 18	Wireline - West Region	0	0	0	0.16949999999999998	0	
+Jan 18	Wireline - Corporate	0	0	0	0.16949999999999998	0	Pankaj Sehgal - CSO
+Jan 18	Business Support, Planning, Analysis & Reporting	49	5	2	0.1077	0.439775	Ilangovan Gnanaprakasam
+Jan 18	Head - FP&A (Office)	2	0	0	0.1077	0.01795	Ilangovan Gnanaprakasam
+Jan 18	Budgeting, Planning & Business Intelligence	1	0	0	0.1077	0.008975	
+Jan 18	Biz & SS supp., anlysis & Rpting	0	0	0	0.1077	0	
+Jan 18	FP&A8431	1	0	0	0.1077	0.008975	
+Jan 18	Finance	0	0	0	0.1077	0	
+Jan 18	Fixed Assets	0	0	0	0.1077	0	
+Jan 18	Capex-Approval, Reporting & Tracking	0	0	0	0.1077	0	
+Jan 18	Business & Shared Service Support, Analysis & Reporting	0	0	0	0.1077	0	
+Jan 18	Global Collections	126	5	1	0.1077	1.13085	Aroon Dasappa
+Jan 18	Resource Raising, Forex & Insurance, Credit & MIS (Collections)	15	1	0	0.1077	0.134625	Aroon Dasappa
+Jan 18	India Banking, Cash Management & Surplus Fund Investments	3	0	0	0.1077	0.026924999999999998	Aroon Dasappa
+Jan 18	Global Head - Treasury, Collections & Insurance	1	0	0	0.1077	0.008975	Aroon Dasappa
+Jan 18	International Banking & Cash Management	5	0	0	0.1077	0.044875	Aroon Dasappa
+Jan 18	International Banking & Cash Management?	0	0	0	0.1077	0	
+Jan 18	CFO (Office)	7	2	0	0.1077	0.06282499999999999	
+Jan 18	Financial Reporting	35	2	1	0.1077	0.314125	Gangadharan R
+Jan 18	Revenue Control	41	0	0	0.1077	0.367975	Gangadharan R
+Jan 18	Accounts Payable	54	8	0	0.1077	0.48465	Gangadharan R
+Jan 18	Head - Financial Reporting & Compliance (Office)	1	0	0	0.1077	0.008975	Gangadharan R
+Jan 18	Fixed Assets9075	14	1	0	0.1077	0.12564999999999998	Gangadharan R
+Jan 18	Head - Reporting552	0	0	0	0.1077	0	
+Jan 18	Finance & Commercial534	0	0	0	0.1077	0	
+Jan 18	FR&C and Financial Reporting8967	0	0	0	0.1077	0	
+Jan 18	Finance Controller/Head FR&C535	0	0	0	0.1077	0	
+Jan 18	Reporting	0	0	0	0.1077	0	
+Jan 18	Financial Reporting729	0	0	1	0.1077	0	
+Jan 18	Revenue Reporting	0	0	0	0.1077	0	
+Jan 18	Finance	0	0	0	0.1077	0	
+Jan 18	Bank Management & Back Office	0	0	0	0.1077	0	
+Jan 18	TCPSL	0	0	0	0.1077	0	
+Jan 18	Holding Comp & Indian Subsidiaries	6	1	0	0.1077	0.053849999999999995	Nageswari S
+Jan 18	Transfer Pricing, Tax Accounting	11	0	1	0.1077	0.09872500000000001	Nageswari S
+Jan 18	Head - Taxation (Office)	2	0	0	0.1077	0.01795	Nageswari S
+Jan 18	Tax Compliance	8	2	1	0.1077	0.0718	Nageswari S
+Jan 18	Regulatory Support	1	0	0	0.1077	0.008975	Nageswari S
+Jan 18	Holding Company, Indian Subsidiaries	0	0	0	0.1077	0	
+Jan 18	Head - Taxation	0	0	0	0.1077	0	
+Jan 18	Head Tax - Office	0	0	0	0.1077	0	
+Jan 18	Europe Region	0	0	0	0.1077	0	
+Jan 18	Holding Company, Indian Subsidiaries	0	0	0	0.1077	0	
+Jan 18	TCTSL	0	0	0	0.1077	0	Nageswari S
+Jan 18	Real Estate & Infrastructure Management	9	5	0	0.1077	0.080775	Ashwani Swami
+Jan 18	REIM Head's Office	3	0	0	0.1077	0.026924999999999998	Ashwani Swami
+Jan 18	CFO's Office	2	0	0	0.1077	0.01795	
+Jan 18	Finance Transformation Projects	0	0	0	0.1077	0	
+Jan 18	Collections	0	0	0	0.1077	0	
+Jan 18	Bank Management & Back Office	0	0	0	0.1077	0	
+Jan 18	Intnl Rating & Leasing	0	0	0	0.1077	0	
+Jan 18	Front Office & Insurance	0	0	0	0.1077	0	
+Jan 18	Head - Treasury	0	0	0	0.1077	0	
+Jan 18	International Funding, Credit Rating & Leasing	0	0	0	0.1077	0	
+Jan 18	Head - Revenue Control	0	0	0	0.1077	0	
+Jan 18	Revenue Reporting	0	0	0	0.1077	0	
+Jan 18	Data	0	0	0	0.1077	0	
+Jan 18	Cash Applications	0	0	0	0.1077	0	
+Jan 18	Real Estate	0	0	0	0.1077	0	
+Jan 18	CFO	0	0	0	0.1077	0	
+Jan 18	CIO	0	0	0	0.1077	0	
+Jan 18	B&C-GES & GCS	0	0	0	0.1077	0	
+Jan 18	Growth Ventures	0	0	0	0.1077	0	
+Jan 18	Financial Reporting536	0	0	0	0.1077	0	
+Jan 18	Head - Financial Reporting & Compliance (Office)	0	0	0	0.1077	0	
+Jan 18	Financial Reporting	0	0	0	0.1077	0	
+Jan 18	Fixed Assets	0	0	0	0.1077	0	
+Jan 18	Accounts Payable	0	0	0	0.1077	0	
+Jan 18	TCTSL	5	0	0	0.1077	0.044875	
+Jan 18	TCPSL	16	4	1	0.1077	0.1436	
+Jan 18	Procurement	0	0	0	0.1077	0	
+Jan 18	Head - SCM (Office)	0	0	0	0.1077	0	
+Jan 18	Material & Logistics	0	0	0	0.1077	0	
+Jan 18	CDN Engineering	42	8	19	0.11710000000000001	0.40985000000000005	Srinivasan CR
+Jan 18	CDN Solutions	0	1	1	0.11710000000000001	0	Srinivasan CR
+Jan 18	CDN Product	6	1	0	0.11710000000000001	0.058550000000000005	Srinivasan CR
+Jan 18	Product Development & Operations	1	1	0	0.11710000000000001	0.009758333333333334	Srinivasan CR
+Jan 18	CDN Operations	0	1	1	0.11710000000000001	0	Srinivasan CR
+Jan 18	Product Development & Operations	0	0	0	0.11710000000000001	0	
+Jan 18	Network & Information Security Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	India Transmission Engineering	25	6	0	0.11710000000000001	0.24395833333333333	Ankur Agrawal
+Jan 18	Wireless Engineering-India	45	5	0	0.11710000000000001	0.43912500000000004	Ankur Agrawal
+Jan 18	International transmission services	19	0	0	0.11710000000000001	0.18540833333333334	
+Jan 18	Global IP and Managed Network Services	64	8	0	0.11710000000000001	0.6245333333333334	Hon Kit Lam
+Jan 18	Global Network Partnership, Offnet Access Strategy & management	112	6	0	0.11710000000000001	1.0929333333333333	Hwee Khoon Stanley Lim
+Jan 18	Revenue / Cost Analysis and Management	9	0	0	0.11710000000000001	0.087825	Gladys Cheng
+Jan 18	GNCDS	3	5	0	0.11710000000000001	0.029275000000000002	
+Jan 18	India Transmission and access	11	0	0	0.11710000000000001	0.10734166666666667	Ankur Agrawal
+Jan 18	Service and Technology Development	17	1	0	0.11710000000000001	0.16589166666666666	Annie Pronovost
+Jan 18	Service and Technology Development	2	7	0	0.11710000000000001	0.01951666666666667	
+Jan 18	GTS Product Management	0	0	0	0.11710000000000001	0	
+Jan 18	Global Netwo..Access Strategy545	0	0	0	0.11710000000000001	0	
+Jan 18	Global Access Management	1	0	0	0.11710000000000001	0.009758333333333334	
+Jan 18	Strategic Business Development	0	0	0	0.11710000000000001	0	
+Jan 18	Global Netwo..ccess Strategy9077	0	0	0	0.11710000000000001	0	
+Jan 18	Revenue Analysis and Management	0	0	0	0.11710000000000001	0	
+Jan 18	NLD, Access Product Management & Feasibility	0	0	0	0.11710000000000001	0	
+Jan 18	Global VPN S.. Ethernet & ASG548	0	0	0	0.11710000000000001	0	
+Jan 18	IPL, IP & IZO Internet WAN	0	0	0	0.11710000000000001	0	
+Jan 18	GNS	0	0	0	0.11710000000000001	0	
+Jan 18	Head of Global Network Services Office	0	0	0	0.11710000000000001	0	
+Jan 18	Product Management	0	0	0	0.11710000000000001	0	
+Jan 18	IP Product Management & Development	0	0	0	0.11710000000000001	0	
+Jan 18	IP & Transmission Product Services	0	0	0	0.11710000000000001	0	
+Jan 18	Global Netwo..ccess Strategy9077	0	0	0	0.11710000000000001	0	
+Jan 18	Global Netwo..Access Strategy545	0	0	0	0.11710000000000001	0	
+Jan 18	GCP	0	0	0	0.11710000000000001	0	
+Jan 18	Engineering and Software development	105	6	28	0.11710000000000001	1.024625	Srinivasan CR
+Jan 18	Advanced technology support and services	15	0	1	0.11710000000000001	0.146375	Srinivasan CR
+Jan 18	MSS Product Management	23	5	6	0.11710000000000001	0.22444166666666668	Srinivasan CR
+Jan 18	Product Development	10	0	3	0.11710000000000001	0.09758333333333333	Srinivasan CR
+Jan 18	Secretary	1	0	0	0.11710000000000001	0.009758333333333334	Srinivasan CR
+Jan 18	MHS Product Management	12	0	1	0.11710000000000001	0.11710000000000001	Srinivasan CR
+Jan 18	Global Data Center Services Head	2	0	1	0.11710000000000001	0.01951666666666667	
+Jan 18	Product Management	1	1	1	0.11710000000000001	0.009758333333333334	Srinivasan CR
+Jan 18	Services Engineering	1	0	1	0.11710000000000001	0.009758333333333334	
+Jan 18	Technology Development	2	0	0	0.11710000000000001	0.01951666666666667	
+Jan 18	Solution Specialists	0	0	0	0.11710000000000001	0	
+Jan 18	Systems and Solutions Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	Network & Information Security Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	Cloud IT Infrastructure Soln Engg	0	0	0	0.11710000000000001	0	
+Jan 18	Secretary	0	0	0	0.11710000000000001	0	
+Jan 18	GCP	0	0	0	0.11710000000000001	0	
+Jan 18	GSMC Operations	231	22	64	0.11710000000000001	2.254175	Srinivasan CR
+Jan 18	GSMC Head	1	0	0	0.11710000000000001	0.009758333333333334	Srinivasan CR
+Jan 18	GSMC Audit and Complaince	7	0	0	0.11710000000000001	0.06830833333333333	Srinivasan CR
+Jan 18	Ethernet Engineering	17	0	2	0.11710000000000001	0.16589166666666666	Badrinarayanan Parthasarathy
+Jan 18	Wholesale IP Engineering	9	0	1	0.11710000000000001	0.087825	Badrinarayanan Parthasarathy
+Jan 18	System and Networks	19	0	28	0.11710000000000001	0.18540833333333334	Badrinarayanan Parthasarathy
+Jan 18	Capacity Planning	14	1	1	0.11710000000000001	0.13661666666666666	Badrinarayanan Parthasarathy
+Jan 18	Enterprise Network Engineering	23	0	0	0.11710000000000001	0.22444166666666668	Badrinarayanan Parthasarathy
+Jan 18	Network Security	13	0	1	0.11710000000000001	0.12685833333333335	Badrinarayanan Parthasarathy
+Jan 18	Technology Evolution	23	0	0	0.11710000000000001	0.22444166666666668	Badrinarayanan Parthasarathy
+Jan 18	Advance  Solution International	1	0	0	0.11710000000000001	0.009758333333333334	Badrinarayanan Parthasarathy
+Jan 18	Global IP and Ethernet Engineering-head	1	0	0	0.11710000000000001	0.009758333333333334	
+Jan 18	Ethernet Engineering	1	0	0	0.11710000000000001	0.009758333333333334	
+Jan 18	GCP	0	0	0	0.11710000000000001	0	
+Jan 18	Business Development	18	4	1	0.11710000000000001	0.17565	Srinivasan CR
+Jan 18	IP Engineering5815	0	0	0	0.11710000000000001	0	
+Jan 18	IP Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	Transmission Engineering International	0	0	0	0.11710000000000001	0	
+Jan 18	Wireless Engineering&Access Sol.	0	0	0	0.11710000000000001	0	
+Jan 18	Ethernet Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	Transmission Engineering, India	0	0	0	0.11710000000000001	0	
+Jan 18	Future Network Technology	0	0	0	0.11710000000000001	0	
+Jan 18	Global Transport NW Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	Engineering Planning	0	0	0	0.11710000000000001	0	
+Jan 18	Service Operations	2	0	2	0.11710000000000001	0.01951666666666667	Srinivasan CR
+Jan 18	Global Services Management Center	4	0	0	0.11710000000000001	0.03903333333333334	
+Jan 18	Network & Information Security Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	Services Transition&Program Mgt	0	0	0	0.11710000000000001	0	
+Jan 18	Service Delivery	0	0	0	0.11710000000000001	0	
+Jan 18	Engagement&Technical Account Mgt	4	0	1	0.11710000000000001	0.03903333333333334	
+Jan 18	Analytics and TAM	0	0	0	0.11710000000000001	0	
+Jan 18	DC Operations (India)	0	0	0	0.11710000000000001	0	
+Jan 18	Process Compliance & ISMS	0	0	0	0.11710000000000001	0	
+Jan 18	Systems and Solutions Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	GSMC Operations	1	0	0	0.11710000000000001	0.009758333333333334	
+Jan 18	Service Operations	6	0	0	0.11710000000000001	0.058550000000000005	
+Jan 18	Service Delivery	0	0	0	0.11710000000000001	0	
+Jan 18	Transmission..neering, India7963	0	0	0	0.11710000000000001	0	
+Jan 18	Transmission Engineering International	0	0	0	0.11710000000000001	0	
+Jan 18	Wireless Engineering	0	0	0	0.11710000000000001	0	
+Jan 18	Long Term Technology Planning	0	0	0	0.11710000000000001	0	
+Jan 18	Network Capacity Planning	0	0	0	0.11710000000000001	0	
+Jan 18	GNCDCS head	0	0	0	0.11710000000000001	0	
+Jan 18	International Data Center Services	0	0	0	0.11710000000000001	0	
+Jan 18	Service Operations	0	0	0	0.11710000000000001	0	
+Jan 18	Transmission Engineering International	2	0	1	0.11710000000000001	0.01951666666666667	
+Jan 18	Transmission Engineering International	25	0	1	0.11710000000000001	0.24395833333333333	
+Jan 18	Sales Support	104	5	0	0.24120000000000003	2.0904	
+Jan 18	Bid & Commercial Mgmt - India & APAC	86	1	6	0.24120000000000003	1.7286000000000001	
+Jan 18	Reporting & Control	16	2	2	0.24120000000000003	0.3216	
+Jan 18	Sales Tools	13	3	1	0.24120000000000003	0.2613	
+Jan 18	Sales Process	11	1	0	0.24120000000000003	0.22110000000000002	
+Jan 18	Operations	4	0	0	0.24120000000000003	0.0804	
+Jan 18	Bid & Commercial Mgmt - Americas & EMEA	46	5	3	0.24120000000000003	0.9246000000000001	
+Jan 18	ATM NOC Operations & Field Services	0	0	0	0.24120000000000003	0	
+Jan 18	Field Services	0	0	0	0.24120000000000003	0	
+Jan 18	Cash Operations	0	0	0	0.24120000000000003	0	
+Jan 18	Field Services & CRM	0	0	0	0.24120000000000003	0	
+Jan 18	Solutions Engineering	34	2	2	0.24120000000000003	0.6834	
+Jan 18	Global Top X	12	2	1	0.24120000000000003	0.2412	
+Jan 18	Direct	30	0	1	0.24120000000000003	0.603	
+Jan 18	New Logos	17	2	0	0.24120000000000003	0.3417	
+Jan 18	MECCA	4	0	0	0.24120000000000003	0.0804	R, Madhusudhan M
+Jan 18	Partner	9	2	0	0.24120000000000003	0.1809	
+Jan 18	Large & Complex Deals	13	7	4	0.24120000000000003	0.2613	
+Jan 18	Sales - EMEA	3	0	0	0.24120000000000003	0.0603	
+Jan 18	MECAA	23	0	1	0.24120000000000003	0.46230000000000004	
+Jan 18	Solutions Engineering	55	9	6	0.24120000000000003	1.1055000000000001	
+Jan 18	Direct	76	12	3	0.24120000000000003	1.5276	
+Jan 18	New Logos	34	2	0	0.24120000000000003	0.6834	
+Jan 18	Global Top X	24	2	3	0.24120000000000003	0.4824	
+Jan 18	Voice & Mobility	64	11	3	0.24120000000000003	1.2864	
+Jan 18	Large & Complex Deals	37	6	5	0.24120000000000003	0.7437	
+Jan 18	Renewals & Retentions - India	32	0	1	0.24120000000000003	0.6432	
+Jan 18	SP Direct	20	4	0	0.24120000000000003	0.402	
+Jan 18	Healthcare Solutions	0	0	0	0.24120000000000003	0	
+Jan 18	Sales - India	4	1	0	0.24120000000000003	0.0804	
+Jan 18	TCLL	20	0	0	0.24120000000000003	0.402	
+Jan 18	Partner	19	3	0	0.24120000000000003	0.3819	
+Jan 18	Business Development	0	0	0	0.24120000000000003	0	
+Jan 18	Govt. Accounts	0	0	0	0.24120000000000003	0	
+Jan 18	Sales - India	0	0	0	0.24120000000000003	0	
+Jan 18	Sales Strategy Execution Team	13	0	0	0.24120000000000003	0.2613	
+Jan 18	Product Management	0	0	0	0.24120000000000003	0	
+Jan 18	Large Enterprise North	0	0	0	0.24120000000000003	0	
+Jan 18	Large Enterprise East	0	0	0	0.24120000000000003	0	
+Jan 18	Renewals & Retention Management	0	0	0	0.24120000000000003	0	
+Jan 18	Support	0	0	0	0.24120000000000003	0	
+Jan 18	Unified Communications	0	0	0	0.24120000000000003	0	
+Jan 18	Strategic Accounts	0	0	0	0.24120000000000003	0	
+Jan 18	eCommerce & Healthcare Accounts	0	0	0	0.24120000000000003	0	
+Jan 18	Sales Specialist	0	0	0	0.24120000000000003	0	
+Jan 18	Transformation Business Team	0	0	0	0.24120000000000003	0	
+Jan 18	Voice & Mobility Sales	0	0	0	0.24120000000000003	0	
+Jan 18	Voice & Mobility Products	0	0	0	0.24120000000000003	0	
+Jan 18	Partnerships & Alliances	0	0	0	0.24120000000000003	0	
+Jan 18	India Region	0	0	0	0.24120000000000003	0	
+Jan 18	PMO	0	0	0	0.24120000000000003	0	
+Jan 18	Lead	0	0	0	0.24120000000000003	0	
+Jan 18	Growth Accounts	0	0	0	0.24120000000000003	0	
+Jan 18	Inside Sales Representative	0	0	0	0.24120000000000003	0	
+Jan 18	Large Enterprise South	0	0	0	0.24120000000000003	0	
+Jan 18	Large Enterprise West	0	0	0	0.24120000000000003	0	
+Jan 18	Large & Complex Deals	8	3	1	0.24120000000000003	0.1608	
+Jan 18	Direct	26	1	0	0.24120000000000003	0.5226	
+Jan 18	Solutions Engineering	21	0	4	0.24120000000000003	0.42210000000000003	
+Jan 18	Global Top X	9	2	1	0.24120000000000003	0.1809	
+Jan 18	Partner	15	3	0	0.24120000000000003	0.3015	
+Jan 18	New Logos	11	4	2	0.24120000000000003	0.22110000000000002	
+Jan 18	Sales - APAC	2	0	0	0.24120000000000003	0.0402	
+Jan 18	Business Development	0	0	0	0.24120000000000003	0	
+Jan 18	Lead	0	0	0	0.24120000000000003	0	
+Jan 18	Enterprise Accounts	0	0	0	0.24120000000000003	0	
+Jan 18	Global SI Partners	0	0	0	0.24120000000000003	0	
+Jan 18	Direct	25	3	1	0.24120000000000003	0.5025	
+Jan 18	Global Top X	22	5	0	0.24120000000000003	0.44220000000000004	
+Jan 18	New Logos	6	2	0	0.24120000000000003	0.1206	
+Jan 18	Large & Complex Deals	9	3	1	0.24120000000000003	0.1809	
+Jan 18	Partner	9	2	0	0.24120000000000003	0.1809	
+Jan 18	Sales - Americas	4	1	0	0.24120000000000003	0.0804	
+Jan 18	Solutions Engineering	25	1	1	0.24120000000000003	0.5025	
+Jan 18	Business Development	0	0	0	0.24120000000000003	0	
+Jan 18	Lead	0	0	0	0.24120000000000003	0	
+Jan 18	Enterprise Accounts	0	0	0	0.24120000000000003	0	
+Jan 18	Global SI Partners	0	0	0	0.24120000000000003	0	
+Jan 18	Market Management	28	1	2	0.24120000000000003	0.5628	
+Jan 18	Sales	73	7	3	0.24120000000000003	1.4673	
+Jan 18	Business Performance	8	0	0	0.24120000000000003	0.1608	
+Jan 18	IPT	1	1	0	0.24120000000000003	0.0201	
+Jan 18	Usage Based Services	4	0	0	0.24120000000000003	0.0804	
+Jan 18	Commercial Operations	6	0	0	0.24120000000000003	0.1206	
+Jan 18	Partner Strategy	30	10	0	0.24120000000000003	0.603	
+Jan 18	SIP & Sales Governance	7	3	1	0.24120000000000003	0.1407	
+Jan 18	Direct Enterprise Strategy	9	2	0	0.24120000000000003	0.1809	
+Jan 18	Strategy & GTM	2	0	0	0.24120000000000003	0.0402	
+Jan 18	Sales Readiness	4	0	0	0.24120000000000003	0.0804	
+Jan 18	President's Office	5	1	0	0.24120000000000003	0.1005	
+Jan 18	Global Solutions Center	33	2	1	0.24120000000000003	0.6633	
+Jan 18	Strategic Projects	5	4	3	0.24120000000000003	0.1005	
+Jan 18	SME-Cloud	8	7	2	0.24120000000000003	0.1608	
+Jan 18	SME-UCC	11	6	4	0.24120000000000003	0.22110000000000002	
+Jan 18	Central Solutions	3	0	0	0.24120000000000003	0.0603	
+Jan 18	Incubation-Mobility	4	2	0	0.24120000000000003	0.0804	
+Jan 18	Incubation-IZO	4	2	0	0.24120000000000003	0.0804	
+Jan 18	SME-Security	1	3	0	0.24120000000000003	0.0201	
+Jan 18	Consultant Solution Engineering	2	1	0	0.24120000000000003	0.0402	
+Jan 18	Sales Management	22	4	4	0.24120000000000003	0.44220000000000004	
+Jan 18	Engineering	9	0	0	0.24120000000000003	0.1809	
+Jan 18	Operations	36	0	3	0.24120000000000003	0.7236	
+Jan 18	Programs	12	0	1	0.24120000000000003	0.2412	
+Jan 18	Product Development	11	0	1	0.24120000000000003	0.22110000000000002	
+Jan 18	Media Enabled Services	2	4	0	0.24120000000000003	0.0402	
+Jan 18	Business Solutions	9	0	2	0.24120000000000003	0.1809	
+Jan 18	Global Media Services	0	1	0	0.24120000000000003	0	
+Jan 18	President's Office	0	0	0	0.24120000000000003	0	
+Jan 18	Healthcare Solutions	3	5	0	0.24120000000000003	0.0603	
+Jan 18	Service Delivery & Assurance	7	0	0	0.24120000000000003	0.1407	
+Jan 18	Business Development	6	2	3	0.24120000000000003	0.1206	
+Jan 18	Product Management	6	0	0	0.24120000000000003	0.1206	
+Jan 18	Lead	0	0	0	0.24120000000000003	0	
+Jan 18	Group President's Office	0	0	0	0.24120000000000003	0	
+Jan 18	Talent Management & Employee Engagement	2	1	0	0.5035000000000001	0.08391666666666667	Pallavi Bakshi
+Jan 18	HR Shared Services Centre	21	2	0	0.5035000000000001	0.881125	Steve
+Jan 18	Talent Acquisition	20	3	1	0.5035000000000001	0.8391666666666666	Anjali Chatterjee
+Jan 18	Human Resource Information Systems (HRIS) & HR Analytics	10	0	0	0.5035000000000001	0.4195833333333333	
+Jan 18	Legal & Regulatory Compliance	6	0	0	0.5035000000000001	0.25175000000000003	Anjali Chatterjee
+Jan 18	Learning & Development	11	1	1	0.5035000000000001	0.46154166666666674	Pallavi Bakshi
+Jan 18	Global HR Head's Office	4	0	0	0.5035000000000001	0.16783333333333333	
+Jan 18	Global HR Head	1	0	0	0.5035000000000001	0.041958333333333334	
+Jan 18	Organizational Development	3	0	0	0.5035000000000001	0.12587500000000001	Pallavi Bakshi
+Jan 18	Compensation & Benefits	4	1	0	0.5035000000000001	0.16783333333333333	Anjali Chatterjee
+Jan 18	HRIS & HR Analytics	1	0	1	0.5035000000000001	0.041958333333333334	
+Jan 18	HR Head's Office	0	0	0	0.5035000000000001	0	
+Jan 18	HR Shared Services Center & HR Analytics	0	0	0	0.5035000000000001	0	
+Jan 18	Talent Management	0	0	0	0.5035000000000001	0	
+Jan 18	Human Resource Information Systems (HRIS)	0	0	0	0.5035000000000001	0	
+Jan 18	HR Shared Services Centre - Global Payroll Operations	10	1	1	0.5035000000000001	0.4195833333333333	
+Jan 18	Organizational Development - Project Marketplace	1	0	0	0.5035000000000001	0.041958333333333334	
+Jan 18	Talent Management & Employee Engagement	0	0	0	0.5035000000000001	0	
+Jan 18	HR Shared Services Center & HR Analytics	0	0	0	0.5035000000000001	0	
+Jan 18	Shared services unit and Product Organizations	5	0	0	0.5035000000000001	0.20979166666666665	Steve
+Jan 18	Corporate Operations	7	0	1	0.5035000000000001	0.29370833333333335	Steve
+Jan 18	Sales	6	0	0	0.5035000000000001	0.25175000000000003	Steve
+Jan 18	TCTS	10	1	0	0.5035000000000001	0.4195833333333333	Steve
+Jan 18	TCPSL	2	0	0	0.5035000000000001	0.08391666666666667	Steve
+Jan 18	Customer Service & Operations	0	0	0	0.5035000000000001	0	
+Jan 18	Segment Organizations	0	0	0	0.5035000000000001	0	
+Jan 18	CSO TCTS	0	0	0	0.5035000000000001	0	
+Jan 18	Corporate TCTS	0	0	0	0.5035000000000001	0	
+Jan 18	Sales	0	0	0	0.5035000000000001	0	
+Jan 18	Europe Region	4	0	0	0.5035000000000001	0.16783333333333333	Steve
+Jan 18	APAC Region	2	0	0	0.5035000000000001	0.08391666666666667	Anjali Chatterjee
+Jan 18	India Region	3	0	0	0.5035000000000001	0.12587500000000001	Anjali Chatterjee
+Jan 18	Americas Region	5	0	0	0.5035000000000001	0.20979166666666665	Steve
+Jan 18	MENA Region	1	0	0	0.5035000000000001	0.041958333333333334	Steve
+Jan 18	Europe Region	0	0	0	0.5035000000000001	0	
+Jan 18	Common Support Services	0	0	0	0.5035000000000001	0	
+Jan 18	Compensation & Benefits	0	0	0	0.5035000000000001	0	
+Jan 18	HR Operations	0	0	0	0.5035000000000001	0	
+Jan 18	Environmental, Occupational Health & Safety	6	0	0	0.5035000000000001	0.25175000000000003	Mukul Kumar
+Jan 18	TM & EE, L&D, BHR & RHR	0	0	0	0.5035000000000001	0	
+Jan 18	TA,C&B,OD,D&I and BHR	0	0	0	0.5035000000000001	0	
+Jan 18	HRIS & HRSS, BHR, Americas Region	0	0	0	0.5035000000000001	0	
+Jan 18	Talent Acquisition, Compensation & Benefits, Business HR	0	0	0	0.5035000000000001	0	
+Jan 18	HRIS, BHR, Americas Region	0	0	0	0.5035000000000001	0	
+Jan 18	APAC Region	0	0	0	0.5035000000000001	0	
+Jan 18	TA, C&B and RHR	1	0	0	0.5035000000000001	0.041958333333333334	
+Jan 18	HRIS & HRSS, BHR and RHR	1	0	0	0.5035000000000001	0.041958333333333334	
+Jan 18	L&D, TM & EE,OD & D&I and Special Projects	1	0	0	0.5035000000000001	0.041958333333333334	
+Jan 18	Global HR Head	1	0	0	0.5035000000000001	0.041958333333333334	
+Jan 18	Core	4	0	0	0	0	
+Jan 18	Criteria	12	0	0	0	0	
+Jan 18	Mobile APN	2	0	0	0	0	
+Jan 18	Divinfy	2	0	0	0	0	
+Jan 18	Imaginaar	0	1	0	0	0	
+Jan 18	MPX	1	0	0	0	0	
+Jan 18	Special Projects	3	4	3	0	0	
+Jan 18	Direct Sales	7	0	3	0	0	
+Jan 18	Engineering	3	0	0	0	0	
+Jan 18	Sales Engineering	2	0	1	0	0	
+Jan 18	Marketing	0	1	0	0	0	
+Jan 18	Dev Ops	8	0	2	0	0	
+Jan 18	Alliance Channels & Ecosystems	1	0	0	0	0	
+Jan 18	Software Development	3	0	1	0	0	
+Jan 18	IoT	0	1	0	0	0	
+Jan 18	Head Innovations	1	1	0	0	0	
+Jan 18	STF W5 Winning idea	0	1	0	0	0	
+Jan 18	Mobile APN	0	1	0	0	0	
+Jan 18	Mobile Innovation Showcase	0	6	0	0	0	
+Jan 18	VipXNet	1	0	0	0	0	
+Jan 18	Commercial/Patents/contracts	2	0	0	0	0	
+Jan 18	STF Platform	0	1	0	0	0	
+Jan 18	Rapid development Team	0	2	0	0	0	
+Jan 18	Procurement	31	1	3	0.1379	0.3562416666666666	Swapnil Dubey
+Jan 18	Material & Logistics	35	3	0	0.1379	0.40220833333333333	Swapnil Dubey
+Jan 18	Head - SCM (Office)	2	0	0	0.1379	0.02298333333333333	Swapnil Dubey
+Jan 18	Compliance, Litigation & Mergers	8	0	0	0.1379	0.09193333333333333	Troy Reynolds
+Jan 18	Company Secretary	7	0	0	0.1379	0.08044166666666666	Alison Lindsay
+Jan 18	Business & Legal Operations	13	2	0	0.1379	0.14939166666666664	
+Jan 18	Procurement and Intellectual Property	12	4	0	0.1379	0.13789999999999997	
+Jan 18	Regulatory and Commercial	44	3	4	0.1379	0.5056333333333333	Alison Lindsay
+Jan 18	Global Head - Legal, SCM & GRC (Office)	2	0	0	0.1379	0.02298333333333333	
+Jan 18	Revenue Assurance	4	1	0	0.1379	0.04596666666666666	Sanjay Mathur
+Jan 18	Internal Audit, ERM & IFC	10	0	1	0.1379	0.11491666666666667	Sanjay Mathur
+Jan 18	Fraud Risk Management	3	1	0	0.1379	0.03447499999999999	Sanjay Mathur
+Jan 18	Head - GRC (Office)	2	0	0	0.1379	0.02298333333333333	Sanjay Mathur
+Jan 18	Revenue Assurance	0	0	0	0.1379	0	
+Jan 18	Revenue Assurance	0	0	0	0.1379	0	
+Jan 18	Partner Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Insights, Partner Markting & Ops	0	0	0	0.36920000000000003	0	
+Jan 18	Insights Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Maketing Operations	0	0	1	0.36920000000000003	0	
+Jan 18	Marketing Operations	0	0	0	0.36920000000000003	0	
+Jan 18	Marketing Insights	0	0	0	0.36920000000000003	0	
+Jan 18	Social Content Experiences	0	0	0	0.36920000000000003	0	
+Jan 18	Campaigns & Performance	0	0	0	0.36920000000000003	0	
+Jan 18	Digital Operations	0	0	1	0.36920000000000003	0	
+Jan 18	Brand & Creative Services	5	0	0	0.36920000000000003	0.15383333333333332	
+Jan 18	Digital, Brand & Creative Services	6	1	0	0.36920000000000003	0.18460000000000001	
+Jan 18	Service Provider Group	0	0	0	0.36920000000000003	0	
+Jan 18	Digital Marketing - Brand	0	0	0	0.36920000000000003	0	
+Jan 18	Media Planning & Performance	2	0	0	0.36920000000000003	0.061533333333333336	
+Jan 18	Digital CRM	3	0	0	0.36920000000000003	0.09230000000000001	
+Jan 18	Public Relations	0	0	0	0.36920000000000003	0	
+Jan 18	Employee Communications	3	2	0	0.36920000000000003	0.09230000000000001	
+Jan 18	Analyst Relations	2	0	0	0.36920000000000003	0.061533333333333336	
+Jan 18	Corporate Communications	4	0	0	0.36920000000000003	0.12306666666666667	
+Jan 18	Corp Comm - Analyst Relations	0	0	0	0.36920000000000003	0	
+Jan 18	Corp Comm - Employee Communications	0	0	0	0.36920000000000003	0	
+Jan 18	Corp Comm - Global PR (India & APAC)	0	0	0	0.36920000000000003	0	
+Jan 18	Corp Comm - PR, AR and Employee Communication	0	0	0	0.36920000000000003	0	
+Jan 18	Corp Comn - Global PR (Europe & US)	0	0	0	0.36920000000000003	0	
+Jan 18	Global PR (India, ME & APAC)	4	0	0	0.36920000000000003	0.12306666666666667	
+Jan 18	Global PR (Europe & North America)	1	0	0	0.36920000000000003	0.030766666666666668	
+Jan 18	Program Mgr - MCOE & NGN	0	0	0	0.36920000000000003	0	
+Jan 18	Head - Marketing & Commns	2	0	0	0.36920000000000003	0.061533333333333336	
+Jan 18	Cloud and Security Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Communication and Collaboration Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Global Sales Enablement Hub	0	0	0	0.36920000000000003	0	
+Jan 18	F1 and MES Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Product & Proposition - Mobiltiy	0	0	0	0.36920000000000003	0	
+Jan 18	Network and Client Services Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Product Marketing & Sales Enablement	0	0	1	0.36920000000000003	0	
+Jan 18	Mobility Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	F1 Business, Product & MES Mktg	0	0	0	0.36920000000000003	0	
+Jan 18	New Services - Move	1	0	0	0.36920000000000003	0.030766666666666668	
+Jan 18	Core Network, services, Vertical Props, Sales Enablement	10	1	0	0.36920000000000003	0.30766666666666664	
+Jan 18	UCC Product Marketing	3	0	2	0.36920000000000003	0.09230000000000001	
+Jan 18	Mobility Product Marketing	3	0	0	0.36920000000000003	0.09230000000000001	
+Jan 18	Cloud & Security Product Marketing	5	0	0	0.36920000000000003	0.15383333333333332	
+Jan 18	Segment Region Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Field Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Program Office	0	0	0	0.36920000000000003	0	
+Jan 18	Global Program and Events	0	0	0	0.36920000000000003	0	
+Jan 18	Segment Marketing	0	0	2	0.36920000000000003	0	
+Jan 18	Segment Marketing - Europe Field Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Segment Marketing - GES & APAC Field Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Segment Marketing - GES & India Field Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Segment Marketing - Global Marketing Programs & Events	0	0	0	0.36920000000000003	0	
+Jan 18	Segment Marketing - Next Gen	0	0	0	0.36920000000000003	0	
+Jan 18	Segment Marketing - US Field Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	President's Office (MC)	0	0	0	0.36920000000000003	0	
+Jan 18	President's Office	1	2	0	0.36920000000000003	0.030766666666666668	
+Jan 18	Executive Assistant4556	0	0	0	0.36920000000000003	0	
+Jan 18	Marketing and Strategy723	0	0	0	0.36920000000000003	0	
+Jan 18	MES Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Product & Propositions Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	F1 Business, Product & MES Mktg	0	0	0	0.36920000000000003	0	
+Jan 18	F1 Business	0	0	0	0.36920000000000003	0	
+Jan 18	Special Projects	0	0	0	0.36920000000000003	0	
+Jan 18	Shape The Future	0	0	0	0.36920000000000003	0	
+Jan 18	Imaginaar	0	0	0	0.36920000000000003	0	
+Jan 18	Mobile APN	0	0	0	0.36920000000000003	0	
+Jan 18	Core	0	0	0	0.36920000000000003	0	
+Jan 18	Criteria	0	0	0	0.36920000000000003	0	
+Jan 18	Divinfy	0	0	0	0.36920000000000003	0	
+Jan 18	MPX	0	0	0	0.36920000000000003	0	
+Jan 18	Product & Proposition - Cloud & Security Product Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Product & Proposition - Sales Enablement & Portfolio Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Product & Proposition - Services & Network Product Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Product & Proposition - UCC Product Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Formula 1 - Activation	0	0	0	0.36920000000000003	0	
+Jan 18	MES	0	0	0	0.36920000000000003	0	
+Jan 18	Mobility Product Marketing	0	0	0	0.36920000000000003	0	
+Jan 18	Marketing Insights	0	0	0	0.36920000000000003	0	
+Jan 18	Mktg Insights, Partners & Ops	0	0	0	0.36920000000000003	0	
+Jan 18	Maketing Operations	0	0	0	0.36920000000000003	0	
+Jan 18	Partners & Operations	0	0	0	0.36920000000000003	0	
+Jan 18	Market Insights & Data Sciences	7	0	0	0.36920000000000003	0.21536666666666665	
+Jan 18	TopX	9	0	0	0.36920000000000003	0.27690000000000003	
+Jan 18	Regional Marketing Americas	5	0	0	0.36920000000000003	0.15383333333333332	
+Jan 18	Regional Marketing India	7	0	0	0.36920000000000003	0.21536666666666665	
+Jan 18	Marketing RTM Engine	5	0	0	0.36920000000000003	0.15383333333333332	
+Jan 18	Regional Marketing EMEA	5	0	0	0.36920000000000003	0.15383333333333332	
+Jan 18	Regional Marketing & Operations	2	0	0	0.36920000000000003	0.061533333333333336	
+Jan 18	Marketing Operations	5	0	0	0.36920000000000003	0.15383333333333332	
+Jan 18	Regional Marketing APAC	3	0	1	0.36920000000000003	0.09230000000000001	
+Jan 18	F1 and MES Marketing	6	0	0	0.36920000000000003	0.18460000000000001	
+Jan 18	MD & CEO's Office	3	5	1	0	0	
+Jan 18	Third Party Alliances and Advert	4	0	0	0.1294	0.04313333333333333	
+Jan 18	Third Party Alliances and Advertising	0	0	0	0.1294	0	
+Jan 18	ATM Deployment	3	0	1	0.1294	0.03235	
+Jan 18	Site Funneling	15	3	0	0.1294	0.16174999999999998	
+Jan 18	Total Implementation Solutions	18	4	0	0.1294	0.19409999999999997	
+Jan 18	Cash Takeover	2	0	0	0.1294	0.021566666666666665	
+Jan 18	Project Management Office (PMO)	8	3	0	0.1294	0.08626666666666666	
+Jan 18	Field Services	17	0	0	0.1294	0.18331666666666663	
+Jan 18	ATM NOC Operations & Field Services	34	5	1	0.1294	0.36663333333333326	
+Jan 18	Cash Operations	17	2	0	0.1294	0.18331666666666663	
+Jan 18	Field Services & CRM	2	1	0	0.1294	0.021566666666666665	
+Jan 18	Operations	1	1	0	0.1294	0.010783333333333332	
+Jan 18	Bid & Commercial Mgmt - Americas & EMEA	0	0	0	0.1294	0	
+Jan 18	Sales Support	0	0	0	0.1294	0	
+Jan 18	Sales Tools	0	0	0	0.1294	0	
+Jan 18	Bid & Commercial Mgmt - India & APAC	0	0	0	0.1294	0	
+Jan 18	Sales Process	0	0	0	0.1294	0	
+Jan 18	Reporting & Control	0	0	0	0.1294	0	
+Jan 18	WLA Cash Reconciliation	0	0	0	0.1294	0	
+Jan 18	Compliance	1	0	0	0.1294	0.010783333333333332	
+Jan 18	Quality	0	1	0	0.1294	0	
+Jan 18	Quality & Compliance	0	0	0	0.1294	0	
+Jan 18	Network Engineering & IT Infrastructure	4	1	0	0.1294	0.04313333333333333	
+Jan 18	Technology Operations	17	2	0	0.1294	0.18331666666666663	
+Jan 18	BPM & Quality	1	0	0	0.1294	0.010783333333333332	
+Jan 18	IT Product Development	7	3	0	0.1294	0.07548333333333332	
+Jan 18	New Products & Solutions	2	2	1	0.1294	0.021566666666666665	
+Jan 18	IT Security	1	0	0	0.1294	0.010783333333333332	
+Jan 18	Technology	0	1	0	0.1294	0	
+Jan 18	Network Engineering & IT Infrastructure	0	0	0	0.1294	0	
+Jan 18	ATM Professional Services	0	0	0	0.1294	0	
+Jan 18	Sales Support-TCPSL	6	2	0	0.1294	0.0647	
+Jan 18	Sales & Account Management	5	1	0	0.1294	0.053916666666666654	
+Jan 18	Third Party Alliances and Advertising	1	0	0	0.1294	0.010783333333333332	
+Jan 18	CEO' s Office	3	1	0	0.1294	0.03235	
+Jan 18	ATM	2	0	0	0.1294	0.021566666666666665	
+Jan 18	Marketing & Communications	2	0	0	0.1294	0.021566666666666665	
+Jan 18	Circle Operations	0	2	0	0.1294	0	
+Jan 18	Marketing & Communications	0	0	0	0.1294	0	
+Jan 18	Product & Portfolio, Indicash2.0	0	0	0	0.1294	0	
+Jan 18	Marketing & Communications	0	1	0	0.1294	0	
+Jan 18	Strategy	0	4	0	0.1294	0	
+Jan 18	CEO' s Office	0	0	0	0.1294	0	
+Jan 18	Service Realisation	0	0	0	0.1294	0	
+Jan 18	Projects	0	0	0	0.1294	0	
+Jan 18	Head	0	0	0	0.1294	0	
+Jan 18	CPS	14	5	0	0.1952	0.22773333333333334	Sobhanbabu Chunduru
+Jan 18	Wireline Drafting	48	9	3	0.1952	0.7807999999999999	Sobhanbabu Chunduru
+Jan 18	Grouse	140	9	5	0.1952	2.2773333333333334	Sobhanbabu Chunduru
+Jan 18	Centrex Assignment	11	3	0	0.1952	0.17893333333333333	Sobhanbabu Chunduru
+Jan 18	VDSL	7	4	0	0.1952	0.11386666666666667	Sobhanbabu Chunduru
+Jan 18	TBS Enterprise Business	83	2	0	0.1952	1.3501333333333334	Sobhanbabu Chunduru
+Jan 18	NECE	19	17	1	0.1952	0.30906666666666666	Sobhanbabu Chunduru
+Jan 18	Order and Implementation Management	48	11	2	0.1952	0.7807999999999999	Sobhanbabu Chunduru
+Jan 18	TELUS Audit	2	1	0	0.1952	0.03253333333333333	Sobhanbabu Chunduru
+Jan 18	CARE Business	21	1	0	0.1952	0.3416	Sobhanbabu Chunduru
+Jan 18	Customer Transport Design	14	1	0	0.1952	0.22773333333333334	Sobhanbabu Chunduru
+Jan 18	Cloud Collaboration and Skype Business	17	3	3	0.1952	0.2765333333333333	Sobhanbabu Chunduru
+Jan 18	COINS	5	5	0	0.1952	0.08133333333333334	Sobhanbabu Chunduru
+Jan 18	CARE Back office	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	TFD	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Business Operations	1	0	2	0.1952	0.016266666666666665	
+Jan 18	Telus Project Form Creation	4	0	0	0.1952	0.06506666666666666	Sobhanbabu Chunduru
+Jan 18	Centrex Order Entry	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Telus TBS Enterprise Business	0	2	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Telus	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Telus CARE Retail	0	2	1	0.1952	0	
+Jan 18	Centrex Order	0	0	0	0.1952	0	
+Jan 18	Order Implementation	1	0	1	0.1952	0.016266666666666665	
+Jan 18	TELUS Reliability Audit	0	0	0	0.1952	0	
+Jan 18	CTD-MDAT	2	1	0	0.1952	0.03253333333333333	
+Jan 18	BMO	0	0	0	0.1952	0	
+Jan 18	CV Cleaning	0	0	0	0.1952	0	
+Jan 18	TBS Enterprise Business	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Falcon	54	3	11	0.1952	0.8784000000000001	
+Jan 18	Wholesale OIM	0	0	0	0.1952	0	
+Jan 18	Telus Onesite CIQ	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Billing Audits	6	1	0	0.1952	0.09759999999999999	
+Jan 18	PRI Translations	0	0	0	0.1952	0	
+Jan 18	Micro Cell Design	0	0	0	0.1952	0	
+Jan 18	Network Logical Engineering	27	1	0	0.1952	0.43920000000000003	
+Jan 18	Telus - Discovery	0	0	0	0.1952	0	
+Jan 18	TTL	0	0	0	0.1952	0	
+Jan 18	Customer Network Discovery	0	0	0	0.1952	0	
+Jan 18	Business Operations	0	0	0	0.1952	0	
+Jan 18	Cloud	0	0	0	0.1952	0	
+Jan 18	FOC	0	0	0	0.1952	0	
+Jan 18	Microcell Design work	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Delivery Excellence	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Service Delivery	1	8	0	0.1952	0.016266666666666665	Sobhanbabu Chunduru
+Jan 18	Service Assurance	1	11	0	0.1952	0.016266666666666665	Sobhanbabu Chunduru
+Jan 18	Customer Network Discovery	0	2	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Service Delivery	0	1	0	0.1952	0	
+Jan 18	Network Testing	0	0	0	0.1952	0	
+Jan 18	FO - Delhi	24	1	0	0.1952	0.39039999999999997	Neeraj Sonker
+Jan 18	FO - KER	9	0	0	0.1952	0.1464	Neeraj Sonker
+Jan 18	FO - Mumbai	34	2	1	0.1952	0.5530666666666666	Neeraj Sonker
+Jan 18	FO - RJ	5	0	0	0.1952	0.08133333333333334	Neeraj Sonker
+Jan 18	FO - TN	20	4	0	0.1952	0.32533333333333336	Neeraj Sonker
+Jan 18	FO - AP	13	1	0	0.1952	0.2114666666666667	
+Jan 18	FO - UPE	8	2	0	0.1952	0.13013333333333332	
+Jan 18	FO - Corporate	4	0	0	0.1952	0.06506666666666666	Neeraj Sonker
+Jan 18	FO - KAR	16	1	0	0.1952	0.26026666666666665	Neeraj Sonker
+Jan 18	FO - West Bengal	6	2	0	0.1952	0.09759999999999999	
+Jan 18	FO - Satellite Operations	11	1	0	0.1952	0.17893333333333333	Neeraj Sonker
+Jan 18	NOC India ( IP, RF & TX)	108	6	3	0.1952	1.7568000000000001	Neeraj Sonker
+Jan 18	Back Office Provisioning	64	4	1	0.1952	1.0410666666666666	Neeraj Sonker
+Jan 18	Serv Corp	8	0	0	0.1952	0.13013333333333332	Neeraj Sonker
+Jan 18	FO - J&K	0	0	0	0.1952	0	Neeraj Sonker
+Jan 18	FO - UPW	5	0	0	0.1952	0.08133333333333334	Neeraj Sonker
+Jan 18	Cable Operations	76	5	0	0.1952	1.2362666666666666	Neeraj Sonker
+Jan 18	SQM	6	0	0	0.1952	0.09759999999999999	
+Jan 18	FO - ROM	9	1	0	0.1952	0.1464	Neeraj Sonker
+Jan 18	FO - MPCG	5	0	0	0.1952	0.08133333333333334	Neeraj Sonker
+Jan 18	FO - Gujarat	8	0	0	0.1952	0.13013333333333332	
+Jan 18	FO - Orissa	2	0	0	0.1952	0.03253333333333333	
+Jan 18	FO - Punjab	4	4	0	0.1952	0.06506666666666666	
+Jan 18	Wireless Delivery	24	2	2	0.1952	0.39039999999999997	
+Jan 18	FO - Haryana	2	2	0	0.1952	0.03253333333333333	Neeraj Sonker
+Jan 18	Service Delivery & Assurance	1	0	0	0.1952	0.016266666666666665	
+Jan 18	FO - Business Ops	9	0	0	0.1952	0.1464	Neeraj Sonker
+Jan 18	FO - Bihar	1	0	0	0.1952	0.016266666666666665	
+Jan 18	FO - KAR	73	32	0	0.1952	1.1874666666666667	Neeraj Sonker
+Jan 18	FO - RJ	26	7	0	0.1952	0.4229333333333334	
+Jan 18	NOC	110	69	4	0.1952	1.7893333333333334	Neeraj Sonker
+Jan 18	FO - Mumbai	56	7	1	0.1952	0.9109333333333334	
+Jan 18	FO - Haryana	28	13	0	0.1952	0.4554666666666667	
+Jan 18	FO - AP	74	29	0	0.1952	1.2037333333333333	Neeraj Sonker
+Jan 18	FO - UPW	32	11	0	0.1952	0.5205333333333333	
+Jan 18	FO - West Bengal	22	2	0	0.1952	0.35786666666666667	Neeraj Sonker
+Jan 18	FO - MPCG	41	15	0	0.1952	0.6669333333333333	
+Jan 18	FO - Gujarat	41	13	0	0.1952	0.6669333333333333	Neeraj Sonker
+Jan 18	FO - ROM	88	43	0	0.1952	1.4314666666666667	
+Jan 18	FO - TN	59	32	0	0.1952	0.9597333333333333	
+Jan 18	FO - KER	33	4	1	0.1952	0.5367999999999999	
+Jan 18	FO - UPE	32	7	0	0.1952	0.5205333333333333	Neeraj Sonker
+Jan 18	FO - Bihar	9	3	0	0.1952	0.1464	Neeraj Sonker
+Jan 18	FO - NESA	4	0	0	0.1952	0.06506666666666666	Neeraj Sonker
+Jan 18	FO - Delhi	24	5	1	0.1952	0.39039999999999997	
+Jan 18	FO - Punjab	29	8	0	0.1952	0.47173333333333334	Neeraj Sonker
+Jan 18	FO - Jharkhand	7	2	0	0.1952	0.11386666666666667	Neeraj Sonker
+Jan 18	TTL MPLS NOC	28	22	3	0.1952	0.4554666666666667	Neeraj Sonker
+Jan 18	SQM	14	2	1	0.1952	0.22773333333333334	Neeraj Sonker
+Jan 18	FO - Orissa	7	0	0	0.1952	0.11386666666666667	Neeraj Sonker
+Jan 18	FO - HP	5	5	0	0.1952	0.08133333333333334	Neeraj Sonker
+Jan 18	FO - J&K	2	0	0	0.1952	0.03253333333333333	
+Jan 18	FO - Corporate	4	0	0	0.1952	0.06506666666666666	
+Jan 18	FO - Materials & Logistics	1	0	0	0.1952	0.016266666666666665	
+Jan 18	FO - CSD	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Cramer-BOP	0	0	0	0.1952	0	
+Jan 18	Tx SOC FTS	0	0	0	0.1952	0	
+Jan 18	Delivery Excellence	0	0	0	0.1952	0	
+Jan 18	WACS	7	0	1	0.1952	0.11386666666666667	Sobhanbabu Chunduru
+Jan 18	NOC	0	0	0	0.1952	0	
+Jan 18	Practice	34	4	3	0.1952	0.5530666666666666	Chalapathi Rao
+Jan 18	Sales & BD	31	11	0	0.1952	0.5042666666666666	R, Madhusudhan M
+Jan 18	Pre Sales & Solutions	24	14	0	0.1952	0.39039999999999997	Chalapathi Rao
+Jan 18	Business Operations	10	13	0	0.1952	0.16266666666666668	R, Madhusudhan M
+Jan 18	Business Excellence	0	2	2	0.1952	0	
+Jan 18	Marketing & Communications	3	0	0	0.1952	0.048799999999999996	R, Madhusudhan M
+Jan 18	Operations	6	3	0	0.1952	0.09759999999999999	R, Madhusudhan M
+Jan 18	Chairman's office	2	0	0	0.1952	0.03253333333333333	R, Madhusudhan M
+Jan 18	CEO's Office (TCTSL)	3	1	0	0.1952	0.048799999999999996	R, Madhusudhan M
+Jan 18	Partnerships & Alliances	7	0	0	0.1952	0.11386666666666667	Chalapathi Rao
+Jan 18	Service Delivery & Assurance	1	0	0	0.1952	0.016266666666666665	R, Madhusudhan M
+Jan 18	RMG	3	0	0	0.1952	0.048799999999999996	
+Jan 18	Legal and Commercial	0	0	0	0.1952	0	
+Jan 18	Business Operations	0	0	0	0.1952	0	
+Jan 18	Transition	5	0	1	0.1952	0.08133333333333334	
+Jan 18	Business Transformation Project	2	0	0	0.1952	0.03253333333333333	
+Jan 18	Bid Management	4	0	1	0.1952	0.06506666666666666	
+Jan 18	PBX	13	6	2	0.1952	0.2114666666666667	R, Madhusudhan M
+Jan 18	Project	18	3	0	0.1952	0.2928	Sobhanbabu Chunduru
+Jan 18	MS Office	0	1	0	0.1952	0	
+Jan 18	PBX L1 Assurance	0	0	0	0.1952	0	
+Jan 18	MSOS/ODCC support	0	0	0	0.1952	0	
+Jan 18	Network Provisioning and configuration	0	0	0	0.1952	0	
+Jan 18	Bell Wirelss Tool Automation	0	0	0	0.1952	0	
+Jan 18	Bell RADS support and maintenance	0	0	0	0.1952	0	
+Jan 18	Projects	172	44	2	0.1952	2.7978666666666667	Sobhanbabu Chunduru
+Jan 18	C&W Access	53	11	0	0.1952	0.8621333333333334	Sobhanbabu Chunduru
+Jan 18	Projects and Programmes	15	4	0	0.1952	0.24400000000000002	Sobhanbabu Chunduru
+Jan 18	C&W Data	34	5	0	0.1952	0.5530666666666666	Sobhanbabu Chunduru
+Jan 18	NGP	248	62	10	0.1952	4.034133333333333	Sobhanbabu Chunduru
+Jan 18	IPD	13	4	0	0.1952	0.2114666666666667	Sobhanbabu Chunduru
+Jan 18	Cease	66	9	6	0.1952	1.0735999999999999	Sobhanbabu Chunduru
+Jan 18	System Integration	28	11	0	0.1952	0.4554666666666667	Sobhanbabu Chunduru
+Jan 18	Fiber Services	132	31	0	0.1952	2.1471999999999998	Sobhanbabu Chunduru
+Jan 18	PIM	198	32	3	0.1952	3.2207999999999997	Sobhanbabu Chunduru
+Jan 18	Access	4	1	0	0.1952	0.06506666666666666	Sobhanbabu Chunduru
+Jan 18	NI&S	169	1400	0	0.1952	2.7490666666666668	Sobhanbabu Chunduru
+Jan 18	Planning & Design	8	14	0	0.1952	0.13013333333333332	Sobhanbabu Chunduru
+Jan 18	Vodafone Laas	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Vodafone IPD Field	1	1	0	0.1952	0.016266666666666665	Sobhanbabu Chunduru
+Jan 18	Vodafone	4	0	0	0.1952	0.06506666666666666	R, Madhusudhan M
+Jan 18	P&D	1	1	0	0.1952	0.016266666666666665	Sobhanbabu Chunduru
+Jan 18	Systems Integration	2	1	0	0.1952	0.03253333333333333	
+Jan 18	Mobility	0	0	0	0.1952	0	
+Jan 18	SRT	0	0	0	0.1952	0	
+Jan 18	Lab As a Service	0	0	0	0.1952	0	
+Jan 18	TES-GTES	0	0	0	0.1952	0	
+Jan 18	Migration	0	0	0	0.1952	0	
+Jan 18	TES - BAU1	0	0	0	0.1952	0	
+Jan 18	Business Excellence	0	0	0	0.1952	0	
+Jan 18	NBN	2	73	0	0.1952	0.03253333333333333	Sobhanbabu Chunduru
+Jan 18	Gemini	55	26	3	0.1952	0.8946666666666667	Sobhanbabu Chunduru
+Jan 18	Business Excellence	0	0	0	0.1952	0	
+Jan 18	NBN Greenfield MDU	0	13	0	0.1952	0	
+Jan 18	PDSA	11	14	0	0.1952	0.17893333333333333	
+Jan 18	Business Operations	0	0	0	0.1952	0	
+Jan 18	Delivery Excellence	3	0	0	0.1952	0.048799999999999996	
+Jan 18	Project Field Delivery	0	19	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Product Activation	0	30	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Project V	0	19	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Activation	0	0	0	0.1952	0	
+Jan 18	Service Assurance	120	18	2	0.1952	1.9520000000000002	
+Jan 18	Service Delivery	25	4	3	0.1952	0.4066666666666666	
+Jan 18	SD	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Service Delivery	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Delivery Excellence	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Service Assurance	23	20	7	0.1952	0.3741333333333333	
+Jan 18	Business Operations	0	0	0	0.1952	0	
+Jan 18	Business Operations	0	0	0	0.1952	0	
+Jan 18	IT	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Pre Sales & Solutions	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Business Excellence	16	2	0	0.1952	0.26026666666666665	Chalapathi Rao
+Jan 18	SME-Delivery	0	2	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Transition	1	0	1	0.1952	0.016266666666666665	Sobhanbabu Chunduru
+Jan 18	Business Operations	2	1	0	0.1952	0.03253333333333333	
+Jan 18	Sales	0	0	0	0.1952	0	R, Madhusudhan M
+Jan 18	IT Products	2	0	0	0.1952	0.03253333333333333	Sobhanbabu Chunduru
+Jan 18	Wireless Delivery	0	2	0	0.1952	0	
+Jan 18	Project Management Office (PMO)	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Operations	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Delivery Operations	1	0	0	0.1952	0.016266666666666665	Sobhanbabu Chunduru
+Jan 18	RMG	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	SME	0	0	0	0.1952	0	Sobhanbabu Chunduru
+Jan 18	Quality	0	0	0	0.1952	0	
+Jan 18	Delivery Support	0	0	0	0.1952	0	
+Jan 18	Sales	0	0	0	0.1952	0	
+Jan 18	Project Management Office (PMO)	0	0	0	0.1952	0	
+Jan 18	Project Management Office (PMO)	0	0	0	0.1952	0	
+Jan 18	Practice	13	0	0	0.1952	0.2114666666666667	
+Jan 18	Business Operations	0	0	0	0.1952	0	
+Jan 18	Infrastructure	3	0	0	0.1952	0.048799999999999996	
+Jan 18	Bench	33	136	6	0.1952	0.5367999999999999	R, Madhusudhan M
+Jan 18	RMG Activity	0	9	1	0.1952	0	R, Madhusudhan M
+Jan 18	Cramer-BOP	0	0	0	0.1952	0	Neeraj Sonker
+Jan 18	FO - UPW	8	0	1	0.1952	0.13013333333333332	
+Jan 18	FO - UPE	14	0	0	0.1952	0.22773333333333334	
+Jan 18	FO - AP	11	1	0	0.1952	0.17893333333333333	
+Jan 18	FO - KER	2	0	0	0.1952	0.03253333333333333	
+Jan 18	FO - TN	8	2	0	0.1952	0.13013333333333332	
+Jan 18	FO - Delhi	6	1	0	0.1952	0.09759999999999999	
+Jan 18	FO - Punjab	1	0	0	0.1952	0.016266666666666665	
+Jan 18	FO - CSD	12	122	0	0.1952	0.19519999999999998	Neeraj Sonker
+Jan 18	FO - Haryana	0	0	0	0.1952	0	
+Jan 18	FO - KAR	10	0	1	0.1952	0.16266666666666668	
+Jan 18	FO - Materials & Logistics	2	0	0	0.1952	0.03253333333333333	Neeraj Sonker
+Jan 18	FO - Business Ops	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Business Excellence	0	0	0	0.1952	0	
+Jan 18	Delivery Excellence	0	0	0	0.1952	0	
+Jan 18	Customer Management	61	45	0	0.1952	0.9922666666666667	Neeraj Sonker
+Jan 18	Incident Management	134	58	0	0.1952	2.179733333333333	Neeraj Sonker
+Jan 18	ILL	3	3	0	0.1952	0.048799999999999996	Neeraj Sonker
+Jan 18	PQM	35	13	0	0.1952	0.5693333333333334	Neeraj Sonker
+Jan 18	Focused Technical Support	31	15	0	0.1952	0.5042666666666666	Neeraj Sonker
+Jan 18	RF SOC L2 Desk	2	0	0	0.1952	0.03253333333333333	Neeraj Sonker
+Jan 18	Performance & Quality Mgmt	1	0	0	0.1952	0.016266666666666665	
+Jan 18	TX	1	0	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	Escalation Desk L2	4	1	0	0.1952	0.06506666666666666	Neeraj Sonker
+Jan 18	Tx SOC Regional Lead	1	0	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	Tx SOC L2 Technical Desk	4	0	0	0.1952	0.06506666666666666	Neeraj Sonker
+Jan 18	SOC Head	1	0	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	SOC	1	0	0	0.1952	0.016266666666666665	
+Jan 18	RF SOC FTS	1	0	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	Tx SOC FTS	1	0	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	Head TTL	1	0	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	PRI	0	1	0	0.1952	0	
+Jan 18	Customer & Incident Mgt	0	0	0	0.1952	0	
+Jan 18	RF SOC Lead	0	0	0	0.1952	0	
+Jan 18	TSC	0	0	0	0.1952	0	
+Jan 18	PMG Network Quality	0	0	0	0.1952	0	
+Jan 18	PMG Lead	0	0	0	0.1952	0	
+Jan 18	PMG SAT	0	0	0	0.1952	0	
+Jan 18	Tx SOC Lead	0	0	0	0.1952	0	
+Jan 18	Escalation Desk MIS	0	0	0	0.1952	0	
+Jan 18	Escalation Desk Lead	0	0	0	0.1952	0	
+Jan 18	MS Desk	0	0	0	0.1952	0	
+Jan 18	SPOT	0	0	0	0.1952	0	
+Jan 18	Wireless Delivery	6	2	0	0.1952	0.09759999999999999	Sobhanbabu Chunduru
+Jan 18	Retail Broadband	24	8	0	0.1952	0.39039999999999997	Neeraj Sonker
+Jan 18	FO - HP	17	1	0	0.1952	0.2765333333333333	
+Jan 18	FO - J&K	15	4	0	0.1952	0.24400000000000002	
+Jan 18	Mobility - HP	0	0	0	0.1952	0	
+Jan 18	FO - Punjab	30	5	0	0.1952	0.48800000000000004	
+Jan 18	FO - Mumbai	3	114	0	0.1952	0.048799999999999996	
+Jan 18	FO - Materials & Logistics	1	1	0	0.1952	0.016266666666666665	
+Jan 18	FO - UPE	0	0	0	0.1952	0	
+Jan 18	B2B	14	1	0	0.1952	0.22773333333333334	Sobhanbabu Chunduru
+Jan 18	Cloud engagement	3	6	0	0.1952	0.048799999999999996	Sobhanbabu Chunduru
+Jan 18	Business Development	0	1	0	0.1952	0	
+Jan 18	Oredoo	0	0	0	0.1952	0	
+Jan 18	OOCE - Cloud Ops Management	0	0	0	0.1952	0	
+Jan 18	OOCE - Cloud Prod Management	0	0	0	0.1952	0	
+Jan 18	OOCE - Cloud Cust Exp Management	0	0	0	0.1952	0	
+Jan 18	OOCE - Cloud Bus Development	0	0	0	0.1952	0	
+Jan 18	Business Development	0	0	0	0.1952	0	
+Jan 18	OOCE - Cloud Solution Architect	0	0	0	0.1952	0	
+Jan 18	Wireless Delivery	1	1	0	0.1952	0.016266666666666665	
+Jan 18	PT Smart Telecom - Network Audit Assignm	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Planview	3	2	0	0.1952	0.048799999999999996	Sobhanbabu Chunduru
+Jan 18	AT & T	231	53	5	0.1952	3.7576	Sobhanbabu Chunduru
+Jan 18	AT &T Onshore	0	0	0	0.1952	0	
+Jan 18	Wireline - East Region	1	0	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	Mobility - HP	0	0	0	0.1952	0	
+Jan 18	Wireline - North Region	0	0	0	0.1952	0	
+Jan 18	Mobility - UPE	0	0	0	0.1952	0	
+Jan 18	Mobility - ANP	0	0	0	0.1952	0	
+Jan 18	Wireline - South Region	0	0	0	0.1952	0	
+Jan 18	Mobility - RJ	0	0	0	0.1952	0	
+Jan 18	Mobility - ROM	0	0	0	0.1952	0	
+Jan 18	MES6240	23	6	0	0.1952	0.3741333333333333	Sobhanbabu Chunduru
+Jan 18	Business Operations	0	0	0	0.1952	0	
+Jan 18	Business Excellence	0	0	0	0.1952	0	
+Jan 18	Sterlite	1	10	0	0.1952	0.016266666666666665	Neeraj Sonker
+Jan 18	SOC	2	0	0	0.1952	0.03253333333333333	Neeraj Sonker
+Jan 18	NOC	9	4	0	0.1952	0.1464	
+Jan 18	TATASKY-TATASKY	0	0	0	0.1952	0	
+Jan 18	TATASKY	0	0	0	0.1952	0	
+Jan 18	Emirates	14	1	0	0.1952	0.22773333333333334	Sobhanbabu Chunduru
+Jan 18	Service Assurance	0	0	0	0.1952	0	
+Jan 18	Service Assurance	3	2	0	0.1952	0.048799999999999996	
+Jan 18	Wireless Delivery	0	1	0	0.1952	0	
+Jan 18	Projects	3	5	0	0.1952	0.048799999999999996	
+Jan 18	Cable Operations	0	0	0	0.1952	0	
+Jan 18	NOC India ( IP, RF & TX)	0	0	0	0.1952	0	
+Jan 18	Back Office Provisioning	0	0	0	0.1952	0	
+Jan 18	NOC TTL	0	0	0	0.1952	0	
+Jan 18	TTL MPLS NOC	0	0	0	0.1952	0	
+Jan 18	SQM	0	0	0	0.1952	0	
+Jan 18	SQM-TTL	0	0	0	0.1952	0	
+Jan 18	Head Service Delivery&Assurance	0	0	0	0.1952	0	
+Jan 18	Service Delivery & Assurance	0	0	0	0.1952	0	
+Jan 18	Telx	2	0	0	0.1952	0.03253333333333333	Sobhanbabu Chunduru
+Jan 18	Inventory Clean up	3	9	0	0.1952	0.048799999999999996	Sobhanbabu Chunduru
+Jan 18	Inventory Management	0	0	0	0.1952	0	
+Jan 18	Orange Inventory Clean up	0	0	0	0.1952	0	
+Jan 18	Sales	0	0	0	0.1952	0	
+Jan 18	Business Development	0	0	0	0.1952	0	
+Jan 18	Vodafone	0	0	0	0.1952	0	
+Jan 18	Tata - Cloud Services	0	1	0	0.1952	0	
+Jan 18	Wireline - North Region	0	0	0	0.1952	0	Neeraj Sonker
+Jan 18	Wireline - South Region	0	0	0	0.1952	0	
+Jan 18	Wireline - West Region	0	0	0	0.1952	0	
+Jan 18	Wireline - Corporate	0	0	0	0.1952	0	
+Jan 18	Wireline - East Region	0	0	0	0.1952	0	
+Jan 18	Wireline - Satellite Operations	0	0	0	0.1952	0	
+Jan 18	Mobility - RJ	0	0	0	0.1952	0	
+Jan 18	Wireline - Row Region	0	0	0	0.1952	0	
+Jan 18	Mobility - TN	0	0	0	0.1952	0	
+Jan 18	Mobility - KER	0	0	0	0.1952	0	
+Jan 18	Mobility - UPE	0	0	0	0.1952	0	
+Jan 18	Mobility - MPCG	0	0	0	0.1952	0	
+Jan 18	Mobility - UPW	0	0	0	0.1952	0	
+Jan 18	Mobility - GJ	0	0	0	0.1952	0	
+Jan 18	Mobility - ANP	0	0	0	0.1952	0	
+Jan 18	Mobility - Punjab	0	0	0	0.1952	0	
+Jan 18	Mobility - HP	0	0	0	0.1952	0	
+Jan 18	Mobility - KAR	0	0	0	0.1952	0	
+Jan 18	Mobility - Haryana	0	0	0	0.1952	0	
+Jan 18	Mobility - ROM	0	0	0	0.1952	0	
+Jan 18	Mobility - J&K	0	0	0	0.1952	0	
+Jan 18	Field Operations - Wireline	0	0	0	0.1952	0	
+Jan 18	Mobility - HM	0	0	0	0.1952	0	
+Jan 18	Mobility - Corporate	0	0	0	0.1952	0	
+Jan 18	Mobility - North	0	0	0	0.1952	0	
+Jan 18	Mobility - West	0	0	0	0.1952	0	
+Jan 18	NBN Design Operations	6	58	5	0.1952	0.09759999999999999	Sobhanbabu Chunduru
+Jan 18	NBN Design Operations	2	16	1	0.1952	0.03253333333333333	
+Jan 18	NBN : Service stream Designers	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Practice	0	0	0	0.1952	0	
+Jan 18	Pre Sales & Solutions	0	0	0	0.1952	0	
+Jan 18	Business Operations & Planning	0	0	0	0.1952	0	
+Jan 18	Marketing & Communications	0	0	0	0.1952	0	
+Jan 18	NAM	0	0	0	0.1952	0	
+Jan 18	Legal	0	0	0	0.1952	0	
+Jan 18	Tata Sky-SOC	0	0	0	0.1952	0	
+Jan 18	Tata Sky-NOC	0	0	0	0.1952	0	
+Jan 18	Wireless Delivery	0	0	0	0.1952	0	
+Jan 18	Chairman's office	0	0	0	0.1952	0	
+Jan 18	CEO' s Office	0	0	0	0.1952	0	
+Jan 18	Executive Assistant	0	0	0	0.1952	0	
+Jan 18	Wireless Delivery	0	0	0	0.1952	0	
+Jan 18	Cable Operations	0	0	0	0.1952	0	
+Jan 18	TTL MPLS NOC	0	0	0	0.1952	0	
+Jan 18	Partnerships & Alliances	0	0	0	0.1952	0	
+Jan 18	Wireline - South Region	0	0	0	0.1952	0	
+Jan 18	Process consulting	0	0	0	0.1952	0	
+Jan 18	Project Management support and Designing NOC	4	1	0	0.1952	0.06506666666666666	
+Jan 18	Orange SA Laas	1	1	0	0.1952	0.016266666666666665	
+Jan 18	NGENA Discovery	0	0	0	0.1952	0	
+Jan 18	GIS and Cramer Project	0	0	0	0.1952	0	
+Jan 18	VHA Aus	1	0	0	0.1952	0.016266666666666665	
+Jan 18	TCTSL	0	0	0	0.1952	0	
+Jan 18	SD-WAN Validation & Testing	1	1	0	0.1952	0.016266666666666665	
+Jan 18	Design Centre FTTx Services	18	1	1	0.1952	0.2928	
+Jan 18	ST Telemedia	0	0	0	0.1952	0	
+Jan 18	STT L1 and L2 Services	4	0	0	0.1952	0.06506666666666666	
+Jan 18	Google Adwords Callmetrics	0	0	0	0.1952	0	
+Jan 18	VHA PS Core Engineering	0	1	0	0.1952	0	
+Jan 18	NBN Consultancy Services	0	5	1	0.1952	0	
+Jan 18	CEO' s Office	0	0	0	0.1952	0	
+Jan 18	Ooredoo Qatar DC consultancy	0	0	0	0.1952	0	
+Jan 18	Network Inventory and audit	0	0	0	0.1952	0	
+Jan 18	Fixed planning and engineering	0	0	0	0.1952	0	
+Jan 18	Juniper	18	0	1	0.1952	0.2928	
+Jan 18	Cisco Systems Incorporation	5	0	4	0.1952	0.08133333333333334	
+Jan 18	SON Transformation	4	3	2	0.1952	0.06506666666666666	
+Jan 18	Enterprise Service Solutions	0	3	3	0.1952	0	
+Jan 18	NOC Automation & Predictive Analytics POC	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Delivery Excellence	1	0	0	0.1952	0.016266666666666665	
+Jan 18	Prereadiness of Metro network rearchitecture	1	0	0	0.1952	0.016266666666666665	
